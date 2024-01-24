@@ -1,0 +1,42 @@
+body {
+background-color: #93b48a;
+  }
+h1{
+    color: white;
+    font-size: 100px;
+    margin:0;
+    padding:0;
+    font-family: 'Fredericka the Great', serif;
+    font-weight: 500;
+}
+h2{
+    color: white; 
+    font-family: 'Montserrat', serif;
+}
+p{
+    color: white;
+    font-family: 'Montserrat', serif;
+}
+a{
+    color: white;
+    font-family: 'Montserrat', serif;
+}
+ul{
+    color: white;
+    font-family: 'Montserrat', serif;
+}
+#container{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+#container2{
+    width: 90%;
+    margin: auto;
+    text-align: left;
+}
+#container3{
+    width: 90%;
+    margin: auto;
+    text-align: left;
+}
