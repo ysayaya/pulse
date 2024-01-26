@@ -25,6 +25,10 @@ ul{
     color: white;
     font-family: 'Montserrat', serif;
 }
+dl{
+    color: white;
+    font-family: 'Montserrat', serif; 
+}
 #container{
     width: 80%;
     margin: auto;
